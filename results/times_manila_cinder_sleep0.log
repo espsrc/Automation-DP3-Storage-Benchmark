@@ -1,0 +1,112 @@
+MANILA: TODAY is 25/11/2024 AND THE CURRENT TIME 11:00 UTC !!!!!!!!!
+/usr/local/bin/singularity pull dp3-new-benchmark-singularity.sif library://boyewo/collection/dp3-new-benchmark-singularity.sif
+/usr/local/bin/singularity exec --bind "/mnt/scratch1:/mnt/scratch1" "dp3-new-benchmark-singularity.sif" images.py /mnt/scratch1/datavolume
+Running toy FITS image processing benchmark
+Running operation benchmark
+Average execution time 6.815860 seconds
+Max execution time 7.660819 seconds
+Std dev of execution time 0.433891 seconds
+CINDER: TODAY IS 25/11/2024 AND THE CURRENT TIME IS 11:00 UTC !!!!!!!!!
+/usr/local/bin/singularity pull dp3-new-benchmark-singularity.sif library://boyewo/collection/dp3-new-benchmark-singularity.sif
+/usr/local/bin/singularity exec --bind "/mnt/scratch:/mnt/scratch" "dp3-new-benchmark-singularity.sif" images.py /mnt/scratch/datavolume
+Running toy FITS image processing benchmark
+Running operation benchmark
+Average execution time 7.633163 seconds
+Max execution time 8.474953 seconds
+Std dev of execution time 0.758362 seconds
+MANILA: TODAY is 25/11/2024 AND THE CURRENT TIME 15:00 UTC !!!!!!!!!
+/usr/local/bin/singularity pull dp3-new-benchmark-singularity.sif library://boyewo/collection/dp3-new-benchmark-singularity.sif
+/usr/local/bin/singularity exec --bind "/mnt/scratch1:/mnt/scratch1" "dp3-new-benchmark-singularity.sif" images.py /mnt/scratch1/datavolume
+Running toy FITS image processing benchmark
+Running operation benchmark
+Average execution time 7.305022 seconds
+Max execution time 8.166697 seconds
+Std dev of execution time 0.641403 seconds
+CINDER: TODAY IS 25/11/2024 AND THE CURRENT TIME IS 15:00 UTC !!!!!!!!!
+/usr/local/bin/singularity pull dp3-new-benchmark-singularity.sif library://boyewo/collection/dp3-new-benchmark-singularity.sif
+/usr/local/bin/singularity exec --bind "/mnt/scratch:/mnt/scratch" "dp3-new-benchmark-singularity.sif" images.py /mnt/scratch/datavolume
+Running toy FITS image processing benchmark
+Running operation benchmark
+Average execution time 7.546955 seconds
+Max execution time 7.912390 seconds
+Std dev of execution time 0.388815 seconds
+MANILA: TODAY is 25/11/2024 AND THE CURRENT TIME 19:00 UTC !!!!!!!!!
+/usr/local/bin/singularity pull dp3-new-benchmark-singularity.sif library://boyewo/collection/dp3-new-benchmark-singularity.sif
+/usr/local/bin/singularity exec --bind "/mnt/scratch1:/mnt/scratch1" "dp3-new-benchmark-singularity.sif" images.py /mnt/scratch1/datavolume
+Running toy FITS image processing benchmark
+Running operation benchmark
+Average execution time 7.660258 seconds
+Max execution time 8.225799 seconds
+Std dev of execution time 0.664818 seconds
+CINDER: TODAY IS 25/11/2024 AND THE CURRENT TIME IS 19:00 UTC !!!!!!!!!
+/usr/local/bin/singularity pull dp3-new-benchmark-singularity.sif library://boyewo/collection/dp3-new-benchmark-singularity.sif
+/usr/local/bin/singularity exec --bind "/mnt/scratch:/mnt/scratch" "dp3-new-benchmark-singularity.sif" images.py /mnt/scratch/datavolume
+Running toy FITS image processing benchmark
+Running operation benchmark
+Average execution time 5.784109 seconds
+Max execution time 6.242606 seconds
+Std dev of execution time 0.246935 seconds
+MANILA: TODAY is 25/11/2024 AND THE CURRENT TIME 23:00 UTC !!!!!!!!!
+/usr/local/bin/singularity pull dp3-new-benchmark-singularity.sif library://boyewo/collection/dp3-new-benchmark-singularity.sif
+/usr/local/bin/singularity exec --bind "/mnt/scratch1:/mnt/scratch1" "dp3-new-benchmark-singularity.sif" images.py /mnt/scratch1/datavolume
+Running toy FITS image processing benchmark
+Running operation benchmark
+Average execution time 8.272344 seconds
+Max execution time 8.714940 seconds
+Std dev of execution time 0.271983 seconds
+CINDER: TODAY IS 25/11/2024 AND THE CURRENT TIME IS 23:00 UTC !!!!!!!!!
+/usr/local/bin/singularity pull dp3-new-benchmark-singularity.sif library://boyewo/collection/dp3-new-benchmark-singularity.sif
+/usr/local/bin/singularity exec --bind "/mnt/scratch:/mnt/scratch" "dp3-new-benchmark-singularity.sif" images.py /mnt/scratch/datavolume
+Running toy FITS image processing benchmark
+Running operation benchmark
+Average execution time 6.881642 seconds
+Max execution time 7.292303 seconds
+Std dev of execution time 0.272346 seconds
+MANILA: TODAY is 26/11/2024 AND THE CURRENT TIME 03:00 UTC !!!!!!!!!
+/usr/local/bin/singularity pull dp3-new-benchmark-singularity.sif library://boyewo/collection/dp3-new-benchmark-singularity.sif
+/usr/local/bin/singularity exec --bind "/mnt/scratch1:/mnt/scratch1" "dp3-new-benchmark-singularity.sif" images.py /mnt/scratch1/datavolume
+Running toy FITS image processing benchmark
+Running operation benchmark
+Average execution time 7.473426 seconds
+Max execution time 7.846574 seconds
+Std dev of execution time 0.412658 seconds
+CINDER: TODAY IS 26/11/2024 AND THE CURRENT TIME IS 03:00 UTC !!!!!!!!!
+/usr/local/bin/singularity pull dp3-new-benchmark-singularity.sif library://boyewo/collection/dp3-new-benchmark-singularity.sif
+/usr/local/bin/singularity exec --bind "/mnt/scratch:/mnt/scratch" "dp3-new-benchmark-singularity.sif" images.py /mnt/scratch/datavolume
+Running toy FITS image processing benchmark
+Running operation benchmark
+Average execution time 6.668169 seconds
+Max execution time 7.288388 seconds
+Std dev of execution time 0.330819 seconds
+MANILA: TODAY is 26/11/2024 AND THE CURRENT TIME 07:00 UTC !!!!!!!!!
+/usr/local/bin/singularity pull dp3-new-benchmark-singularity.sif library://boyewo/collection/dp3-new-benchmark-singularity.sif
+/usr/local/bin/singularity exec --bind "/mnt/scratch1:/mnt/scratch1" "dp3-new-benchmark-singularity.sif" images.py /mnt/scratch1/datavolume
+Running toy FITS image processing benchmark
+Running operation benchmark
+Average execution time 7.456738 seconds
+Max execution time 7.946602 seconds
+Std dev of execution time 0.315902 seconds
+CINDER: TODAY IS 26/11/2024 AND THE CURRENT TIME IS 07:00 UTC !!!!!!!!!
+/usr/local/bin/singularity pull dp3-new-benchmark-singularity.sif library://boyewo/collection/dp3-new-benchmark-singularity.sif
+/usr/local/bin/singularity exec --bind "/mnt/scratch:/mnt/scratch" "dp3-new-benchmark-singularity.sif" images.py /mnt/scratch/datavolume
+Running toy FITS image processing benchmark
+Running operation benchmark
+Average execution time 6.613181 seconds
+Max execution time 7.424537 seconds
+Std dev of execution time 0.433624 seconds
+MANILA: TODAY is 26/11/2024 AND THE CURRENT TIME 11:00 UTC !!!!!!!!!
+/usr/local/bin/singularity pull dp3-new-benchmark-singularity.sif library://boyewo/collection/dp3-new-benchmark-singularity.sif
+/usr/local/bin/singularity exec --bind "/mnt/scratch1:/mnt/scratch1" "dp3-new-benchmark-singularity.sif" images.py /mnt/scratch1/datavolume
+Running toy FITS image processing benchmark
+Running operation benchmark
+Average execution time 6.409582 seconds
+Max execution time 6.880971 seconds
+Std dev of execution time 0.239552 seconds
+CINDER: TODAY IS 26/11/2024 AND THE CURRENT TIME IS 11:00 UTC !!!!!!!!!
+/usr/local/bin/singularity pull dp3-new-benchmark-singularity.sif library://boyewo/collection/dp3-new-benchmark-singularity.sif
+/usr/local/bin/singularity exec --bind "/mnt/scratch:/mnt/scratch" "dp3-new-benchmark-singularity.sif" images.py /mnt/scratch/datavolume
+Running toy FITS image processing benchmark
+Running operation benchmark
+Average execution time 5.809869 seconds
+Max execution time 6.276218 seconds
+Std dev of execution time 0.236916 seconds
