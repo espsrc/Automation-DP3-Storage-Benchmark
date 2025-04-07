@@ -1,6 +1,6 @@
 # Automatic Storage Benchmark DP3
 
-[TOC]
+[[_TOC_]]
 
 ## 📝 Description
 
