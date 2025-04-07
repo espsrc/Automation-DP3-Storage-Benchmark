@@ -1,8 +1,6 @@
 # Automatic Storage Benchmark DP3
 
 <!-- toc -->
-<!-- tocstop -->
-
 
 ## 📝 Description
 
@@ -165,3 +163,4 @@ get_results_storagebenchmark.py results/get_results_storagebenchmark.py
 ```
 ![Benchmark Results](results/Evolution1week.png)
 
+<!-- tocstop -->
